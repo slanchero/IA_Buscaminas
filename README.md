@@ -1,4 +1,5 @@
 # Buscaminas Solver con OCR y Algoritmos de Búsqueda
+![Uso del programa](https://github.com/user-attachments/assets/b79fbc4b-5bff-4b91-9402-9ab4bfb0afb3)
 
 Este proyecto implementa un **solver de Buscaminas** utilizando técnicas de **Reconocimiento Óptico de Caracteres (OCR)** y algoritmos avanzados de búsqueda para determinar el siguiente movimiento en el tablero. La interfaz interactiva fue desarrollada en un cuaderno de **Jupyter Notebook** utilizando **ipywidgets**, lo que permite al usuario generar el tablero, resolverlo, y visualizar el siguiente movimiento de forma dinámica.
 
